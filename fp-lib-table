@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name A101SYCQ04)(type Legacy)(uri ${KIPRJMOD}/footprints/A101SYCQ04.mod)(options "")(descr ""))
+  (lib (name SRO_logo)(type KiCad)(uri ${KIPRJMOD}/footprints/SRO_logo.pretty)(options "")(descr ""))
+  (lib (name MotorMounts)(type KiCad)(uri ${KIPRJMOD}/footprints/MotorMounts.pretty)(options "")(descr ""))
+  (lib (name "jumper footprints")(type KiCad)(uri "${KIPRJMOD}/footprints/jumper footprints.pretty")(options "")(descr ""))
+  (lib (name "AA battery holder")(type KiCad)(uri "${KIPRJMOD}/footprints/AA battery holder.pretty")(options "")(descr ""))
+)
